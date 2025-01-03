@@ -1,0 +1,32 @@
+$primary-color: #1677ff;
+$secondary-color: #4096ff;
+
+.dashed-btn {
+  position: relative;
+  width: 100%;
+  padding: 4px 16px;
+  color: $primary-color;
+  background: transparent;
+  border: 1px dashed $primary-color;
+  border-radius: 6px;
+  line-height: var(--ant-button-content-line-height);
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+  &:hover {
+    color: #ffffff;
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+    border-style: solid;
+    white-space: break-spaces;
+  }
+
+  & + .dashed-btn {
+    margin-top: 12px;
+  }
+}

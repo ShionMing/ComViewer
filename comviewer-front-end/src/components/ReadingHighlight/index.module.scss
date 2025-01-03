@@ -1,0 +1,21 @@
+.reading-highlight {
+  position: relative;
+  padding-left: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &::before {
+    content: "";
+    width: 4px;
+    height: 92%;
+    position: absolute;
+    left: 0;
+    top: 4%;
+    background-color: var(--reading-highlight-color);
+  }
+
+  :global(.editable-paragraph-wrap) {
+    flex-grow: 1;
+  }
+}

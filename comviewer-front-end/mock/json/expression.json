@@ -1,0 +1,64 @@
+{
+  "link": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 0.9279050299718262
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 0.9001757531982723
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 0.8941546159442829
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0.8677848236851124
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0.87748696747111
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0.9173077352107502
+    }
+  ],
+  "node": [
+    {
+      "group": 0,
+      "id": "my best friend hurt me"
+    },
+    {
+      "group": 0,
+      "id": "My closest friend deeply wounded me."
+    },
+    {
+      "group": 0,
+      "id": "I was left feeling betrayed and hurt by someone I considered my best friend."
+    },
+    {
+      "group": 0,
+      "id": "The actions of my closest confidant caused me immense pain."
+    },
+    {
+      "group": 0,
+      "id": "I was devastated by the hurtful behavior of someone I trusted wholeheartedly."
+    },
+    {
+      "group": 0,
+      "id": "The person I held dearest to my heart inflicted a great deal of emotional pain on me."
+    },
+    {
+      "group": 0,
+      "id": "I felt a profound sense of loss and anguish when my best friend hurt me."
+    }
+  ]
+}

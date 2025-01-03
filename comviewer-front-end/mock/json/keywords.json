@@ -1,0 +1,55 @@
+{
+  "link": [
+    {
+      "source": "my best friend hurt me",
+      "target": "best friend",
+      "value": 1
+    },
+    {
+      "source": "my best friend hurt me",
+      "target": "hurt",
+      "value": 1
+    },
+    {
+      "source": "my best friend hurt me",
+      "target": "emotional pain",
+      "value": 1
+    },
+    {
+      "source": "my best friend hurt me",
+      "target": "betrayal",
+      "value": 1
+    },
+    {
+      "source": "my best friend hurt me",
+      "target": "friendship conflict",
+      "value": 1
+    }
+  ],
+  "node": [
+    {
+      "group": 0,
+      "id": "my best friend hurt me"
+    },
+    {
+      "group": 0,
+      "id": "best friend"
+    },
+    {
+      "group": 0,
+      "id": "hurt"
+    },
+    {
+      "group": 0,
+      "id": "emotional pain"
+    },
+    {
+      "group": 0,
+      "id": "betrayal"
+    },
+    {
+      "group": 0,
+      "id": "friendship conflict"
+    }
+  ]
+}

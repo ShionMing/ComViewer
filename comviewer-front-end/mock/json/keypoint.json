@@ -1,0 +1,51 @@
+{
+  "link": [
+    {
+      "source": "best friend",
+      "target": "Closest companion",
+      "value": 1
+    },
+    {
+      "source": "best friend",
+      "target": "Trusted confidant",
+      "value": 1
+    },
+    {
+      "source": "best friend",
+      "target": "Soul mate",
+      "value": 1
+    },
+    {
+      "source": "best friend",
+      "target": "Ride or die",
+      "value": 1
+    },
+    {
+      "source": "best friend",
+      "target": "Kindred spirit",
+      "value": 1
+    }
+  ],
+  "node": [
+    {
+      "group": 0,
+      "id": "Closest companion"
+    },
+    {
+      "group": 0,
+      "id": "Trusted confidant"
+    },
+    {
+      "group": 0,
+      "id": "Soul mate"
+    },
+    {
+      "group": 0,
+      "id": "Ride or die"
+    },
+    {
+      "group": 0,
+      "id": "Kindred spirit"
+    }
+  ]
+}

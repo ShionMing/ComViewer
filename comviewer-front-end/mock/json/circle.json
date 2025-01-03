@@ -1,0 +1,1379 @@
+{
+  "bins": {
+      "ES": [
+          {
+              "rank": "medium",
+              "value": 50
+          },
+          {
+              "rank": "low",
+              "value": 34
+          },
+          {
+              "rank": "high",
+              "value": 16
+          }
+      ],
+      "IS": [
+          {
+              "rank": "high",
+              "value": 54
+          },
+          {
+              "rank": "medium",
+              "value": 31
+          },
+          {
+              "rank": "low",
+              "value": 15
+          }
+      ]
+  },
+  "circles": {
+      "children": [
+          {
+              "children": [
+                  {
+                      "children": [
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cfsccea",
+                                      "name": "cfsccea",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cfrv64o",
+                                      "name": "cfrv64o",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1za7v2",
+                              "name": "Does watching a situation where you're anxiety would kick in big time from AFAR still give off bad vibes?"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "c6honzz",
+                                      "name": "c6honzz",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "10yct1",
+                              "name": "Are there steps or levels of intensity when it comes to anxiety? I feel I'm slowly spiraling into depression/anxiety."
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "ccwokzo",
+                                      "name": "ccwokzo",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 1,
+                                      "id": "ccwn7pj",
+                                      "name": "ccwn7pj",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 1,
+                                      "id": "ccyj3xj",
+                                      "name": "ccyj3xj",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1oxiu3",
+                              "name": "anxiety, Klonopin, and exam timing"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "ce20hvc",
+                                      "name": "ce20hvc",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "ce1qwu7",
+                                      "name": "ce1qwu7",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1svfaa",
+                              "name": "[Rant] Post-Exam Anxiety"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "cj7dkjf",
+                                      "name": "cj7dkjf",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "2bopj0",
+                              "name": "so... my exam results soon... HELP ME"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dcb2ud5",
+                                      "name": "dcb2ud5",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dcb2ud5",
+                                      "name": "dcb2ud5",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "5nfbfc",
+                              "name": "Do I have a legit anxiety disorder (need some advice)?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgk58h9",
+                                      "name": "dgk58h9",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "dgk8z6t",
+                                      "name": "dgk8z6t",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgke3eu",
+                                      "name": "dgke3eu",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgkg3iz",
+                                      "name": "dgkg3iz",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 3,
+                                      "id": "dgkkmsf",
+                                      "name": "dgkkmsf",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 3,
+                                      "id": "dgkkmsf",
+                                      "name": "dgkkmsf",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgkg3iz",
+                                      "name": "dgkg3iz",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgke3eu",
+                                      "name": "dgke3eu",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "dgk8z6t",
+                                      "name": "dgk8z6t",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgk58h9",
+                                      "name": "dgk58h9",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "66ozf7",
+                              "name": "How do you deal with anxiety?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dh0psfe",
+                                      "name": "dh0psfe",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dh0psfe",
+                                      "name": "dh0psfe",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "68r4pn",
+                              "name": "The events at the university of Texas today were Incredibly jarring. Not sure how to approach these finals."
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dpdxuk7",
+                                      "name": "dpdxuk7",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dpdxuk7",
+                                      "name": "dpdxuk7",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "7avh91",
+                              "name": "I might be \"failing\" a class this semester"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dr1u0l1",
+                                      "name": "dr1u0l1",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dr1tdds",
+                                      "name": "dr1tdds",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dr1tdds",
+                                      "name": "dr1tdds",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dr1u0l1",
+                                      "name": "dr1u0l1",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "7iw4ve",
+                              "name": "Communication with uni professor?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "e0bw3ot",
+                                      "name": "e0bw3ot",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "e0bqa0r",
+                                      "name": "e0bqa0r",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "8pi0ew",
+                              "name": "So stressed, I feel sick"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ec119tm",
+                                      "name": "ec119tm",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a784dq",
+                              "name": "I have chest pain and I feel like throwing up."
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ec1oj88",
+                                      "name": "ec1oj88",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a7bl3p",
+                              "name": "I’m worried about my IGCSE’s?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 1,
+                                      "id": "ekr9trq",
+                                      "name": "ekr9trq",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "ekr9thi",
+                                      "name": "ekr9thi",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "ekr9t0d",
+                                      "name": "ekr9t0d",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bcjxyl",
+                              "name": "I have a really important exam tomorrow and I'm super nervous, can I get some reassurance?"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "el4h0v4",
+                                      "name": "el4h0v4",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bebe3k",
+                              "name": "About to go take a big exam"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "c4qw4n2",
+                                      "name": "c4qw4n2",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "c4qfpk3",
+                                      "name": "c4qfpk3",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "tws7z",
+                              "name": "Lots of progress over past 2 years but still having trouble with flying/travelling"
+                          }
+                      ],
+                      "id": "help, good, exam, like, luck, people, think, lot, take, university",
+                      "name": "help, good, exam, like, luck, people, think, lot, take, university"
+                  },
+                  {
+                      "children": [
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "ca4a7a0",
+                                      "name": "ca4a7a0",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1eptxy",
+                              "name": "My exam's result will come between 4-5 days.And i'm panicking like hell."
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cbj87he",
+                                      "name": "cbj87he",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1jx9d6",
+                              "name": "Exam Anxiety"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cdh9mpo",
+                                      "name": "cdh9mpo",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cdh5c1k",
+                                      "name": "cdh5c1k",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1qw8cr",
+                              "name": "Anxiety and exams"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "cu3vpk8",
+                                      "name": "cu3vpk8",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cu3coz7",
+                                      "name": "cu3coz7",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "3h18dd",
+                              "name": "Pls help me?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cv8seov",
+                                      "name": "cv8seov",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "3lr4ip",
+                              "name": "Exam Anxiety"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "cwrc8jm",
+                                      "name": "cwrc8jm",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cwr960m",
+                                      "name": "cwr960m",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "3rspz4",
+                              "name": "Trouble with fixating"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "cysgv1g",
+                                      "name": "cysgv1g",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "407qqc",
+                              "name": "I feel like crap"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "d0rel3a",
+                                      "name": "d0rel3a",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "49ffb1",
+                              "name": "Exam in 1 hours 9 minutes"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "d6doqve",
+                                      "name": "d6doqve",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "4x9p4e",
+                              "name": "I'm facing serious anxiety over uncertainty for at least the next month; I don't know how to get through this"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "db8amol",
+                                      "name": "db8amol",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "db89voq",
+                                      "name": "db89voq",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "db89ncu",
+                                      "name": "db89ncu",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "db88mpc",
+                                      "name": "db88mpc",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 1,
+                                      "id": "db849vf",
+                                      "name": "db849vf",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "5ih6cp",
+                              "name": "I just need someone to tell me it's Okay."
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dg2s5ym",
+                                      "name": "dg2s5ym",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dg2sfhx",
+                                      "name": "dg2sfhx",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dg2taz0",
+                                      "name": "dg2taz0",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dg2taz0",
+                                      "name": "dg2taz0",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "dg2sfhx",
+                                      "name": "dg2sfhx",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dg2s5ym",
+                                      "name": "dg2s5ym",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "64k38j",
+                              "name": "Have You Ever Made Yourself Feel This Way After an Exam? Did You Pass?"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgzk78n",
+                                      "name": "dgzk78n",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dgzk78n",
+                                      "name": "dgzk78n",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "68mbxe",
+                              "name": "suddenly panicked during my exam, got another one tomorrow and I'm not sure how to handle it"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "dmhtmld",
+                                      "name": "dmhtmld",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "dmhxxbg",
+                                      "name": "dmhxxbg",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "dmhxxbg",
+                                      "name": "dmhxxbg",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "dmhtmld",
+                                      "name": "dmhtmld",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "6xqtur",
+                              "name": "I haven't taken lexapro in a few days since I ran out of it and am getting more tomorrow. I went to look up what withdrawal symptoms were and the website I was on said lexapro may cause angle closure glaucoma. Now im freaking out"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ecatfaz",
+                                      "name": "ecatfaz",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ecashgz",
+                                      "name": "ecashgz",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a8h70t",
+                              "name": "Its crushing and debilitating"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "ejrmv46",
+                                      "name": "ejrmv46",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "b7bswu",
+                              "name": "Unexplained Text Anxiety"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "em7g317",
+                                      "name": "em7g317",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bjb0n2",
+                              "name": "academia induced anxiety?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "en0kl3e",
+                                      "name": "en0kl3e",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "en0k5yo",
+                                      "name": "en0k5yo",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bmuc9u",
+                              "name": "Missed exam because of my anxiety. Please help I need grounding/words of comfort"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "eo0mn82",
+                                      "name": "eo0mn82",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bq2vu4",
+                              "name": "Failed my last exam of graduate school, Panic Attack in exam hall."
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 3,
+                                      "id": "c4ttw1x",
+                                      "name": "c4ttw1x",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "c4tfvus",
+                                      "name": "c4tfvus",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "u8nin",
+                              "name": "i feel crap"
+                          }
+                      ],
+                      "id": "exam, like, know, think, thing, time, people, want, feeling, speech",
+                      "name": "exam, like, know, think, thing, time, people, want, feeling, speech"
+                  },
+                  {
+                      "children": [
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ca7rbko",
+                                      "name": "ca7rbko",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "1f8apr",
+                              "name": "Geometry Final Exam"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cjt36l7",
+                                      "name": "cjt36l7",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cjt2huc",
+                                      "name": "cjt2huc",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "2dtxog",
+                              "name": "GCSE Result stress/anxiety"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "cqvk2rz",
+                                      "name": "cqvk2rz",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cqvdkaz",
+                                      "name": "cqvdkaz",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "34jdft",
+                              "name": "Urination urge, anxiety and exams"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "cwfqvgm",
+                                      "name": "cwfqvgm",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "3qj51h",
+                              "name": "The more freedom I have the more anxious I feel."
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dirzm9y",
+                                      "name": "dirzm9y",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dirzm9y",
+                                      "name": "dirzm9y",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "6gj4mm",
+                              "name": "Worried About Exams"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dl3wm7v",
+                                      "name": "dl3wm7v",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dl2zbu0",
+                                      "name": "dl2zbu0",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "dl2zd5t",
+                                      "name": "dl2zd5t",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dl37a15",
+                                      "name": "dl37a15",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "dl3wm7v",
+                                      "name": "dl3wm7v",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dl37a15",
+                                      "name": "dl37a15",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "dl2zd5t",
+                                      "name": "dl2zd5t",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "dl2zbu0",
+                                      "name": "dl2zbu0",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "6r7taq",
+                              "name": "Physical Symptoms"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "dzc55tm",
+                                      "name": "dzc55tm",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "8l17gr",
+                              "name": "What am i supposed to do?"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "e148swy",
+                                      "name": "e148swy",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "8sxvw9",
+                              "name": "I pushed through physical anxiety on an exam day!"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "e8jp5wo",
+                                      "name": "e8jp5wo",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "9rtnur",
+                              "name": "How to deal with exam anxiety?"
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ebh1ugh",
+                                      "name": "ebh1ugh",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a4q5ar",
+                              "name": "Having a lot of trouble focusing on studying after doing poorly on an exam"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 1,
+                                      "id": "ec4kcvb",
+                                      "name": "ec4kcvb",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a7n7sl",
+                              "name": "Constantly worried about cheating"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "eflpw6s",
+                                      "name": "eflpw6s",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "eflpppz",
+                                      "name": "eflpppz",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "amg9k7",
+                              "name": "I sorta ghosted my supervisor more than once and now he wants answers"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "efq5kqq",
+                                      "name": "efq5kqq",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "an285k",
+                              "name": "I have been anxious for a few months after a life defining exam. Is it an anxiety disorder?"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "eo772jl",
+                                      "name": "eo772jl",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "eo74f5g",
+                                      "name": "eo74f5g",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bqr4g0",
+                              "name": "Exam anxiety."
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "c53lsbw",
+                                      "name": "c53lsbw",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 2,
+                                      "id": "c53llka",
+                                      "name": "c53llka",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "c53l6ik",
+                                      "name": "c53l6ik",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "vdquj",
+                              "name": "Really worried about possibility of failing subject. Results not released for another month. How am I going to cope?"
+                          }
+                      ],
+                      "id": "like, know, feeling, work, better, helpful, something, make, try, thing",
+                      "name": "like, know, feeling, work, better, helpful, something, make, try, thing"
+                  },
+                  {
+                      "children": [
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "chll5u8",
+                                      "name": "chll5u8",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "25whxo",
+                              "name": "Exam Coping Methods"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "co9ezws",
+                                      "name": "co9ezws",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "2ulbzp",
+                              "name": "Getting super dizzy and nauseous."
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "cr78ex7",
+                                      "name": "cr78ex7",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "35rsxh",
+                              "name": "Thinking about an exam leads me to have panic attacks. Not sure what to do."
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "d6mej5v",
+                                      "name": "d6mej5v",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "4ya7c0",
+                              "name": "Paranoia ruining my life."
+                          },
+                          {
+                              "ES": 3,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "e1uw7u9",
+                                      "name": "e1uw7u9",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "8wcj5q",
+                              "name": "Frequent urination from anxiety"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 1,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 2,
+                                      "id": "eb9m87r",
+                                      "name": "eb9m87r",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a3vnt0",
+                              "name": "Should I be Freaking out?!"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 2,
+                                      "id": "ebqj7gu",
+                                      "name": "ebqj7gu",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a5y34m",
+                              "name": "Buspirone- Exam tomorrow"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 2,
+                                      "IS": 3,
+                                      "id": "ec5xhsm",
+                                      "name": "ec5xhsm",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "a7t80p",
+                              "name": "Exams tomorrow"
+                          },
+                          {
+                              "ES": 2,
+                              "IS": 2,
+                              "children": [
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ei1sy4g",
+                                      "name": "ei1sy4g",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ei1qik7",
+                                      "name": "ei1qik7",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 3,
+                                      "IS": 3,
+                                      "id": "ei1qhmp",
+                                      "name": "ei1qhmp",
+                                      "size": 1
+                                  },
+                                  {
+                                      "ES": 2,
+                                      "IS": 1,
+                                      "id": "ei1q8bs",
+                                      "name": "ei1q8bs",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "aylvjk",
+                              "name": "Need advice from ladies or men who have talked about this with a lady"
+                          },
+                          {
+                              "ES": 1,
+                              "IS": 3,
+                              "children": [
+                                  {
+                                      "ES": 1,
+                                      "IS": 1,
+                                      "id": "epecp6q",
+                                      "name": "epecp6q",
+                                      "size": 1
+                                  }
+                              ],
+                              "id": "bunbum",
+                              "name": "Halp pls"
+                          }
+                      ],
+                      "id": "take, like, exam, time, know, going, help, lot, relax, one",
+                      "name": "take, like, exam, time, know, going, help, lot, relax, one"
+                  }
+              ],
+              "name": "all"
+          }
+      ],
+      "name": "i am worried about the exam"
+  }
+}

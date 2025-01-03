@@ -1,0 +1,34 @@
+@mixin title($width, $radius) {
+  :global(.text) {
+    max-width: $width;
+
+    &:not(:global(.selected .text)) {
+      white-space: nowrap !important;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      vertical-align: bottom;
+    }
+  }
+
+  :global(#input-box) {
+    width: 100%;
+    border-radius: $radius;
+  }
+}
+
+.reading-mind-map-wrap {
+  width: 100%;
+  height: 100%;
+
+  :global(.mind-elixir-toolbar.lt) {
+    display: none;
+  }
+
+  me-root {
+    @include title(200px, var(--root-radius));
+  }
+
+  me-wrapper:not(me-wrapper me-wrapper) {
+    @include title(300px, var(--main-radius));
+  }
+}

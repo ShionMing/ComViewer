@@ -1,0 +1,53 @@
+@keyframes flash-0 {
+  from,
+  50%,
+  to {
+    opacity: 0;
+  }
+
+  25%,
+  75% {
+    opacity: 1;
+  }
+}
+
+:global(.comment).flash {
+  position: relative;
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(230, 247, 255, 0.6);
+    mix-blend-mode: darken;
+    opacity: 0;
+    border-radius: 8px;
+    animation: flash-0;
+    animation-duration: 1s;
+  }
+}
+
+@keyframes flash-1 {
+  from,
+  50%,
+  to {
+    background-color: var(--highlight-color);
+  }
+
+  25%,
+  75% {
+    background-color: var(--highlight-color-opacity-0);
+  }
+}
+
+.highlight:global(.highlight-mengshou-wrap) {
+  background-color: var(--highlight-color);
+
+  &.flash {
+    animation: flash-1;
+    animation-duration: 1s;
+  }
+}
