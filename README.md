@@ -4,6 +4,15 @@
 Our paper:  <b> ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities </b> has been accepted by ACM CSCW 2025.
 ![image](https://github.com/ShionMing/ComViewer/blob/main/all.pdf)
 
+### Getting Start
+```
+git clone https://github.com/ShionMing/ComViewer.git
+cd ComViewer/comviewer-front-end/
+npm install
+npm run dev
+```
+Visit `http://localhost:5173/[user_id]`
+
 ### Citation
 If you find this work useful to you, we'd appreciate you citing our paper!
 ```
